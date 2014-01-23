@@ -15,6 +15,10 @@ Project structure is the following:
 Files `client.js` and `server.js` contain client and server code
 correspondingly.
 
+To install dependencies execute:
+
+    % npm install
+
 To start development execute:
 
     % npm start
